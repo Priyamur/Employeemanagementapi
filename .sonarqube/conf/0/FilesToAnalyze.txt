@@ -1,0 +1,16 @@
+﻿D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\AppDbContext.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Controllers\EmployeeController.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\EmployeeModel.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231231145654_check.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231231145654_check.Designer.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231231150355_ashwin die.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Migrations\20231231150355_ashwin die.Designer.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Migrations\AppDbContextModelSnapshot.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Program.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.GlobalUsings.g.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.AssemblyInfo.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\obj\Debug\net7.0\EmployeeManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\appsettings.Development.json
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\appsettings.json
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\Properties\launchSettings.json

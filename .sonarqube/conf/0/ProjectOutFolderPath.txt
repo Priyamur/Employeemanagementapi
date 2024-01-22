@@ -1,0 +1,1 @@
+D:\Pdotnet\EmployeeManagementMicro\EmployeeManagementApi\.sonarqube\out\0
